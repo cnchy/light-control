@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "light-list": "/pages/lightList/lightList",
+    "setting": "/pages/setting/setting"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "music": "/music/music",
+    "cu-custom": "/colorui/components/cu-custom",
+    "uni-popup": "/components/uni-popup/uni-popup",
+    "yp-number-box": "/components/yp-number-box/yp-number-box"
+  }
+}

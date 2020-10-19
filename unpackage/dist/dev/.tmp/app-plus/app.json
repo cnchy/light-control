@@ -1,0 +1,27 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/lightList/lightList",
+    "pages/lightdetail/lightdetail",
+    "pages/setting/setting"
+  ],
+  "window": {
+    "navigationBarBackgroundColor": "#0081ff",
+    "navigationBarTitleText": "light",
+    "navigationStyle": "custom",
+    "navigationBarTextStyle": "white"
+  },
+  "nvueCompiler": "uni-app",
+  "renderer": "auto",
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "灯控软件",
+  "compilerVersion": "2.5.1",
+  "usingComponents": {
+    "light-list": "/pages/lightList/lightList",
+    "cu-custom": "/colorui/components/cu-custom",
+    "setting": "/pages/setting/setting"
+  }
+}

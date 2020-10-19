@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"panel{ width: 95%; margin: ",[0,20]," auto; padding: 16px; font-family: \x22Roboto\x22; position: relative; border-radius: 2px; box-shadow: 0 2px 10px rgba(0,0,0,.12), 0 2px 5px rgba(0,0,0,.16); background-color: #fff; }\n",],undefined,{path:"./pages/lightdetail/lightdetail.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/lightdetail/lightdetail.wxml') } }));

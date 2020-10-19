@@ -1,0 +1,72 @@
+{
+  "id": "1581431",
+  "name": "light",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1106369",
+      "name": "WIFI",
+      "font_class": "zaixian",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "4933356",
+      "name": "离线",
+      "font_class": "lixian",
+      "unicode": "e73e",
+      "unicode_decimal": 59198
+    },
+    {
+      "icon_id": "5172580",
+      "name": "优品家居_线面_吊灯",
+      "font_class": "diaodeng",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "8124830",
+      "name": "台灯",
+      "font_class": "taideng",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "9530392",
+      "name": "收起展开",
+      "font_class": "zhankai",
+      "unicode": "e61f",
+      "unicode_decimal": 58911
+    },
+    {
+      "icon_id": "10788622",
+      "name": "收起 展开",
+      "font_class": "shouqi",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "2426133",
+      "name": "灯",
+      "font_class": "deng",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "4088447",
+      "name": "电源开关",
+      "font_class": "power-01",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "9278750",
+      "name": "设 置",
+      "font_class": "shezhi",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    }
+  ]
+}

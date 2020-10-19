@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "cu-custom": "/colorui/components/cu-custom",
+    "yp-number-box": "/components/yp-number-box/yp-number-box"
+  }
+}
